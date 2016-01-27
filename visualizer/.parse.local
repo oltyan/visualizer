@@ -1,0 +1,11 @@
+{
+  "applications": {
+    "_default": {
+      "link": "visualizer"
+    },
+    "visualizer": {
+      "parseAppId": "liAy4KHU3Dy1n3i06QMonHM4bPz1uDctZYRna4KY",
+      "herokuAppId": "ee88d87c-5cb6-410c-81ed-ca524373055a"
+    }
+  }
+}
